@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dfornalik
-- 👀 I’m interested in sotware testing 
+- 👀 I’m interested in software testing 
 - 🌱 I’m currently learning project managment and software testing
 - 📫 How to reach me around.world@op.pl
 - ⚡ Fun fact: ...
