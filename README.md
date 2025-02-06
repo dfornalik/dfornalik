@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @dfornalik
-- 👀 I’m interested in software testing 
-- 🌱 I’m currently learning project managment and software testing
-- 📫 How to reach me around.world@op.pl
+- Hi, I’m @dfornalik! 🚀
+- 👀 Passionate about uncovering hidden bugs & making software bulletproof
+- 🔍 Obsessed with quality & efficiency in testing
+- 🌱 Currently expanding my skills in project management & software testing techniques
+- 📫 How to reach me: dfornalik@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
